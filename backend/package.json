@@ -1,0 +1,17 @@
+{
+  "name": "campaign-contract",
+  "version": "1.0.0",
+  "description": "modifying kickstarter.com website",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "naolselemon",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.3.1",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^11.7.1",
+    "web3": "^1.0.0-beta.26"
+  }
+}
